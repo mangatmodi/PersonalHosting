@@ -1,0 +1,5 @@
+port: 8000
+#List of space_route  server_route mapping
+routes:
+  - Document/MangatRaiModi2020.pdf resume.pdf
+  - Document/MangatRaiModi2020.pdf rhythm_resume.pdf
